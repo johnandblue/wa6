@@ -1,0 +1,4 @@
+.EventList {
+  width: 80% !important; /*override material ui*/
+  margin: 0 auto;
+}
